@@ -25,4 +25,5 @@ Full Lifecycle Automation: It manages the entire lifespan of a certificate, incl
    It provides a unified dashboard for a holistic view of the entire certificate inventory, helping organizations maintain compliance and identify vulnerabilities.
    
 4. Future-Ready Security:
+   It provides a unified dashboard for a holistic view of the entire certificate inventory, helping organizations maintain compliance and identify vulnerabilities
 5. It often includes support for advanced concepts like Post-Quantum Cryptography (PQC) readiness and built-in Key Management capabilities.
